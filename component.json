@@ -1,0 +1,20 @@
+{
+  "name": "Cellsio (CSS сетка)",
+  "version": "1.0.0",
+  "description": "Cellsio",
+  "author": "LiquidHub.ru",
+  "type": "bundle-css",
+  "homepage": "https://github.com/insales-components/cellsio",
+  "props": {
+    "bundle": true,
+    "css-bundle": true,
+  },
+  "plugins": [{
+    "name": "normalize",
+    "files": [{
+        "url": "https://cdn.jsdelivr.net/npm/normalize.css@8.0.0/normalize.min.css",
+        "file": "bundle_normalize.min.css"
+      }]
+  }],
+  "dependencies": {}
+}
