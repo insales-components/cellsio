@@ -7,7 +7,7 @@
   "homepage": "https://github.com/insales-components/cellsio",
   "props": {
     "bundle": true,
-    "css-bundle": true,
+    "css-bundle": true
   },
   "plugins": [{
     "name": "normalize",
